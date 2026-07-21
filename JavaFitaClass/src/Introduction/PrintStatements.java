@@ -1,10 +1,9 @@
-package day01_introduction;
+package Introduction;
 
 public class PrintStatements {
-	
-    public static void main(String[] args) {
 
-        System.out.println("Java");
+	public static void main(String[] args) {
+		System.out.println("Java");
         System.out.println("Program");
         System.out.println("OOPs");
 
@@ -24,6 +23,7 @@ public class PrintStatements {
 
         System.out.println(1 + 2 + "Java" + "Program" + 1 + 3);
 
-    }
+
+	}
 
 }
