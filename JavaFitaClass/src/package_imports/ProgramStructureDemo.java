@@ -11,7 +11,7 @@ package package_imports;
 import java.util.Scanner;
 
 // Importing all classes from a package
-import java.util.*;
+//import java.util.*;
 
 // User-defined imports (Example)
 // import com.java.db.Database1;
